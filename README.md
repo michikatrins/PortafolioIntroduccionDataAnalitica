@@ -10,8 +10,8 @@ Las tablas
 
 
 Los diagramas se encuentran con los nombres de BD
-el bd.png fue generado en la herramienta. 
-el bd.svg  fue generado en otro programa para que se viera mejor. 
+el bd.png fue generado en la herramienta de  como esta la base de datos. 
+el bd.svg es el generado del warehouse. 
 
 
 
